@@ -2,4 +2,4 @@
 
 Dns Zone Transfer 
 
-<img src=https://raw.githubusercontent.com/antichown/dnszone-transfer/master/dns2.png>
+<img src=https://raw.githubusercontent.com/antichown/dnszone-transfer/master/dn2.png>
